@@ -1,84 +1,63 @@
-# 🏠 Complete 3D Architectural Modeling Project
+# 👋 Hi, I'm Nimesh Rokka.
 
-A comprehensive architectural design project demonstrating **end-to-end 2D drafting, 3D modeling, and technical documentation** for a residential building. This project showcases proficiency in **AutoCAD**, spatial planning, and construction detailing.
+**Civil Engineering Graduate | AutoCAD Specialist | Aspiring Estimator**
 
----
-## 🖼️ Project Screenshots
-
-### 1. 2D Floor Plan & Section
-![2D Floor Plan and Section](section_elevation_plan.jpg)
-*Detailed floor plan with dimensions, room labels, and sectional cut A-B showing wall and footing details.*
-
-### 2. 3D Exterior Visualization
-![3D Rendered View](3d_view.png)
-*Realistic 3D model showing exterior finish, roof design, and spatial volume.*
+Welcome to my GitHub! I'm a detail-oriented Civil Engineer building a career at the intersection of **technical design, construction documentation, and cost estimation**. My projects demonstrate a hands-on approach to turning architectural concepts into buildable, well-documented plans.
 
 ---
 
-## 📁 Project Deliverables
+## 🧑‍💻 What I Do
+I specialize in creating precise **2D construction drawings** and **3D architectural visualizations** using AutoCAD, with a focus on generating documentation that directly supports **quantity take-off and cost estimation**.
 
-This repository contains the complete set of architectural documents for a residential unit:
-
-1.  **2D Floor Plan** – Dimensioned layout with room annotations
-2.  **Section Elevation (A-B)** – Detailed cross-sectional view
-3.  **3D Exterior Visualization** – Rendered model with realistic materials
-4.  **View & Render Settings** – Configuration for realistic output
-
----
-
-## 🛠️ Technical Skills Demonstrated
-
-- **AutoCAD 2D Drafting:** Floor plans, sections, dimensions, and annotations
-- **3D Modeling:** Extrusion, viewport management, and material application
-- **Construction Documentation:** Wall sections, footing details, and elevation labeling
-- **View & Render Setup:** Camera placement, lighting, and realistic output configuration
+### 🔧 Technical Toolkit
+- **CAD & Drafting:** AutoCAD (2D & 3D), Dimensioning, Section Detailing, Viewport Management
+- **Visualization:** 3D Modeling, Material Application, Camera & Lighting Setup, Realistic Rendering
+- **Construction Docs:** Floor Plans, Elevations, Sections, Annotations, Bill of Materials
+- **Tools:** MS Excel (Estimation Formulas), Git, Markdown
 
 ---
 
-## 📐 Key Design Specifications
+## 🏗️ Featured Projects
 
-| Element               | Specification       |
-| --------------------- | ------------------- |
-| **Perimeter Wall**    | 0.5 m thickness     |
-| **Internal Walls**    | 0.2 m / 0.4 m       |
-| **Footing (PCC)**     | 0.45 m depth        |
-| **Floor Height**      | 3.0 m               |
-| **Living Room**       | 4.0 m x 6.0 m       |
+### 🏠 [Complete 3D Architectural Modeling Project](https://github.com/nimeshrokka82/Complete-3D-Architectural-Modeling-Project)
+A full-cycle residential design project showcasing **end-to-end CAD workflow**:
+- Created detailed **2D floor plans and sectional elevations** with structural annotations
+- Modeled a complete **3D exterior visualization** with realistic materials and lighting
+- Documented wall sections, footings (0.45m PCC), and room specifications (Living: 4x6m)
+- Configured render settings for professional presentation output
 
-**Materials Used:** PCC (Plain Cement Concrete), RCC (Reinforced Cement Concrete), Clay Tile Roofing
-
----
-
-
-## 🧭 Project Workflow
-
-1.  **Concept & Planning:** Defined room sizes, wall thicknesses, and structural elements.
-2.  **2D Drafting:** Created dimensioned floor plans, sections, and elevations in AutoCAD.
-3.  **3D Modeling:** Extruded 2D layouts into a 3D mass, applied materials, and set up cameras.
-4.  **Rendering:** Configured lighting (Sun Status), materials, and output resolution for final visualization.
-5.  **Documentation:** Annotated all drawings with technical specifications and labels.
+### 📐 [Residential Floor Plan Design & Documentation](https://github.com/nimeshrokka82/Residential-Floor-Plan-Design-Documentation)
+A focused project on **architectural planning and technical documentation**:
+- Developed optimized **space layouts** with proper dimensioning and scale
+- Applied **construction standards** for wall thicknesses (0.2m–0.5m) and clearances
+- Prepared drawings ready for **material take-off and estimation**
+- Demonstrated ability to produce **construction-ready documentation**
 
 ---
 
-## 🚀 How to View or Modify
+## 🎯 Professional Focus
+I'm actively seeking roles where I can contribute my **CAD drafting and documentation skills** while growing into **construction estimation and project coordination**. My goal is to bridge design intent with buildable, cost-effective construction solutions.
 
-1.  Open `.dwg` files in **AutoCAD** or compatible CAD software.
-2.  View `.jpg`/`.png` files in any image viewer.
-3.  To re-render the 3D view:
-    - Open the DWG file in AutoCAD
-    - Type `VIEW` and select "Realistic" visual style
-    - Adjust lighting via "Sun Status" and "Create Light"
-    - Use `RENDER` command to generate new output
+**Interested in:**
+- Junior CAD Technician / Draftsperson roles
+- Estimation Assistant / Quantity Surveyor positions
+- Project Coordinator opportunities in residential construction
+- Renewable energy infrastructure (particularly hydropower civil works)
+
+---
+
+## 📫 Let's Connect
+I'm always open to discussing **opportunities, collaborations, or projects** where my skills can add value.
+
+- **Email:** [nimeshrokka82@gmail.com]
 
 ---
 
-## 📬 Connect
-
-This project is part of my architectural drafting and modeling portfolio.  
-For inquiries or collaboration, reach out via:
-
-- **GitHub:** [https://github.com/nimeshrokka82]
-- **Email:** nimeshrokka82@gmail.com
+## 📈 Currently Learning
+- Advanced **estimation techniques** and BOQ preparation
+- **Python for CAD automation** (pyautocad)
+- **BIM workflows** and their application in construction
+- Sustainable design principles for infrastructure
 
 ---
-*Project completed using AutoCAD. Rendered with AutoCAD's built-in rendering engine.*
+*"Turning lines on a screen into measurable, buildable reality."*
